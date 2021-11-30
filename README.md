@@ -1,5 +1,5 @@
 # laravel-docker-base
-Container criado para facilitar o desenvolvimento de aplicações Laravel.
+Ambiente criado para facilitar o desenvolvimento de aplicações Laravel utilizando docker.
 
 ### Especificações:
 - Laravel 7 
