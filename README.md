@@ -11,7 +11,7 @@ Ambiente criado para facilitar o desenvolvimento de aplicações Laravel utiliza
 ## Configurando ambiente:
 - Efetue um fork do projeto para seu github
 - faça um clone para sua maquina local
-- Rcesse a pasta src e via terminal execute os comando:
+- Acesse a pasta src e via terminal execute os comando:
  ```
   cp .env.example .env
  ```
@@ -34,7 +34,7 @@ Ambiente criado para facilitar o desenvolvimento de aplicações Laravel utiliza
 ```
 docker exec -it laravel-docker-base-php-fpm-1 /bin/bash
 ```
-- Dentro da pasta aplication execute os seguintes comandos para dar permissao a pasta storage e gerar os migrations da aplicação:
+- Dentro da pasta aplication execute os seguintes comandos para dar permissão a pasta storage e gerar os migrations da aplicação:
 ```
 chmod -R 777 storage/
 ```
